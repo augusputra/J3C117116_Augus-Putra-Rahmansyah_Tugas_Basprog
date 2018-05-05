@@ -1,0 +1,11 @@
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\AUGUS PUTRA\DATA KULIAH\SEMESTER 2\MATKUL\BASPROG\Tugas Pertemuan 10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
